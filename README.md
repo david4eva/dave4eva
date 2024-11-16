@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">I am Salesforce developer based in the US.</h3>
+<h3 align="center">I am a Salesforce Implementation Specialist based in the US.</h3>
 <img algn="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png">
 
 - 🌱 I’m currently learning **LWC**
