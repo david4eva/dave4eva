@@ -3,7 +3,7 @@
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
 <img algn="right" alt="Coding" width="400" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png">
 
-- 🌱 I’m currently learning **LWC**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Salesforce**
 
