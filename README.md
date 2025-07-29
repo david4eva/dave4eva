@@ -16,8 +16,8 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img width="50" height="50" alt="2025-07-29_00-43-43" src="https://github.com/user-attachments/assets/fdadaf5c-d94c-482b-b194-4e9b685b9426" />
 <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc">
   <img
-    width="50"
-    height="50"
+    width="40"
+    height="40"
     alt="2025-07-29_00-51-33"
     src="https://github.com/user-attachments/assets/d3b3cad0-483b-4395-b1da-97f4d253ccd2"
   />
