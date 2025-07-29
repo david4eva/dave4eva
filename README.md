@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-sullivan-9b5a13188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-sullivan-9b5a13188/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages, Frameworks & Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  <img width="50" height="50" alt="2025-07-29_00-43-43" src="https://github.com/user-attachments/assets/fdadaf5c-d94c-482b-b194-4e9b685b9426" />
 <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc">
   <img
