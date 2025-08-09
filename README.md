@@ -1,4 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
+<img width="1400" height="1024" alt="image" align="center" src="https://github.com/user-attachments/assets/341e65fc-136f-4339-95fd-c87767f15007"/>
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
 <img width="1024" height="1024" alt="image" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" />
