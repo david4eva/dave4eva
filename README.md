@@ -2,19 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
-<img width="1024" height="1024" alt="image" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" />
+<img width="1024" height="700" alt="image" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" />
 
 
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Salesforce and API integrations**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/david-elias-9b5a13188" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-elias-9b5a13188" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Programming Languages, Frameworks & Tools:</h3>
 <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
