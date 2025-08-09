@@ -1,6 +1,5 @@
-<img src="https://github.com/user-attachments/assets/341e65fc-136f-4339-95fd-c87767f15007" 
-     alt="image" 
-     style="max-width: 100%; height: 50%; display: block; margin: 0 auto;" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/373c2d19-e24e-4f60-9d7e-e20b0eb6949c" />
+
      
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
