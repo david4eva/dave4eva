@@ -15,7 +15,7 @@
 </a>
 
 <!-- Trailhead -->
-<a href="https://trailblazer.me/id/davidelias" target="_blank" rel="noreferrer">
+<a href="https://www.salesforce.com/trailblazer/n1s7lb7dzyfsybv21g" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
 </a>
 
