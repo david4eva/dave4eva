@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Salesforce and API integrations**
-
+---
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Programming Languages, Frameworks & Tools:</h3>
 <!-- Java -->
