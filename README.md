@@ -4,7 +4,7 @@
     alt="image" 
     width="1024" 
     height="500" 
-    style="object-fit:cover; border-radius:8px;"
+    style="object-fit:fill; border-radius:8px;"
   />
 </p>
      
