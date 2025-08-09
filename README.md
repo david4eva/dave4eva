@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee115e77-3713-4aba-8dbe-be6ded696a94" />
+<img width="1024" height="1024" alt="image" src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png" />
 
 
 - 🌱 I’m currently learning **AWS**
