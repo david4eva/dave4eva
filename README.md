@@ -6,7 +6,24 @@
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Salesforce and API integrations**
 
+---
+
 <h3 align="left">Connect with me:</h3>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/david-elias-75a168179/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<!-- Trailhead -->
+<a href="https://trailblazer.me/id/davidelias" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
+</a>
+
+<!-- Personal Website -->
+<a href="https://davidelias.netlify.app" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+</a>
+
 <h3 align="left">Programming Languages, Frameworks & Tools:</h3>
 <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
