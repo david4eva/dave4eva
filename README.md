@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I am a Salesforce Developer based in the US.</h3>
+
 ---
+
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Salesforce and API integrations**
 
