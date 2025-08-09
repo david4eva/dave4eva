@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/373c2d19-e24e-4f60-9d7e-e20b0eb6949c" />
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/373c2d19-e24e-4f60-9d7e-e20b0eb6949c" />
 
      
 <h1 align="center">Hi 👋, I'm David</h1>
